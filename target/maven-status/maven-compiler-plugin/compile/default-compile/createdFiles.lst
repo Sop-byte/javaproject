@@ -1,0 +1,4 @@
+cm/immo/client/modele/Client.class
+cm/immo/client/repository/ClientRepository.class
+cm/immo/client/controller/ClientController.class
+cm/immo/client/ClientApplication.class
